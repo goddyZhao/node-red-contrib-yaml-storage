@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-yaml-storage",
+  "name": "node-red-contrib-yaml-storage-plugin",
   "version": "1.0.1",
   "description": "A Node-RED storage plugin that store flows as YAML for readability",
   "main": "localfilesystem_yaml.js",
